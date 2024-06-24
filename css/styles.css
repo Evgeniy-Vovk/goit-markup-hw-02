@@ -50,9 +50,10 @@ a {
 .page-nav-link:focus {
   color: #404bbf;
 }
-
-.page-contacts {
+.adress-info {
   font-style: normal;
+}
+.page-contacts {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -132,7 +133,9 @@ a {
 .team {
   background: #f4f4fd;
 }
-
+.team-list {
+  background-color: #ffffff;
+}
 .our-team {
   font-weight: 500;
   font-size: 20px;
